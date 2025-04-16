@@ -84,6 +84,6 @@ footer {
     }
 
     #parent {
-        display: block;
+        flex-direction: column;
     }
 }
